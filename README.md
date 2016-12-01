@@ -1,2 +1,2 @@
-# RNA_Assembler
-RNA-Transcript Based Genome Scaffolding Tool 
+# RobertWBaldwin
+MSc Candidate, Brock University 
