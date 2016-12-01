@@ -1,2 +1,2 @@
 # RobertWBaldwin
-MSc Candidate, Brock University 
+MSc Candidate in the Department of Biology at Brock University, Ontario, Canada 
